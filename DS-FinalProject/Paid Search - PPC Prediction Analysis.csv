@@ -1,0 +1,379 @@
+Type,Channel,Device,Geo,Vendor,Clicks,Cost
+Brand,Paid Search,Desktop,France,Google,106651,51945.52
+Brand,Paid Search,Desktop,Indonesia,Google,17610,4065.59
+Brand,Paid Search,Desktop,Switzerland,Google,4847,385.21
+Brand,Paid Search,Desktop,Thailand,Google,7353,872.66
+Brand,Paid Search,Desktop,Turkey,Bing,20318,8009.84
+Brand,Paid Search,Mobile,Denmark,Google,5472,872.73
+Brand,Paid Search,Mobile,Hindi,Google,0,0
+Brand,Paid Search,Mobile,India,Bing,251,14.49
+Brand,Paid Search,Mobile,Indonesia,Google,8589,2065.94
+Brand,Paid Search,Mobile,Japan,Bing,509,454.11
+Brand,Paid Search,Mobile,Russia,Bing,13,4.61
+Brand,Paid Search,Mobile,Spain,Google,46960,11390.84
+Brand,Paid Search,Mobile,Vietnam,Google,906,103.35
+Brand,Paid Search,Tablet,Finland,Google,593,100.68
+Brand,Paid Search,Tablet,Rest of World,Google,13456,3323.2
+Brand,Paid Search,Tablet,Russia,Google,713,580.95
+Brand,Paid Search,Tablet,Singapore,Google,871,264.96
+Brand,Paid Search,Tablet,Spain,Bing,130,3.47
+Brand,Paid Search,Tablet,Sweden,Google,1589,270.88
+Brand,Paid Search,Tablet,Thailand,Google,497,77.19
+Non-Brand,Paid Search,Desktop,France,Bing,5798,4546.8
+Non-Brand,Paid Search,Desktop,Indonesia,Bing,2406,971.81
+Non-Brand,Paid Search,Desktop,Korea,Google,18765,17195.9
+Non-Brand,Paid Search,Desktop,Russia,Google,11769,9079.77
+Non-Brand,Paid Search,Mobile,China,Google,1733,1363.78
+Non-Brand,Paid Search,Mobile,Rest of World,Google,201997,106741.69
+Non-Brand,Paid Search,Mobile,Spain,Bing,4749,199.41
+Non-Brand,Paid Search,Mobile,Thailand,Google,3807,2752.36
+Non-Brand,Paid Search,Tablet,Australia,Google,4876,16273.01
+Non-Brand,Paid Search,Tablet,Denmark,Bing,5,4.3
+Non-Brand,Paid Search,Tablet,Finland,Bing,2,0.25
+Non-Brand,Paid Search,Tablet,Greece,Google,229,375.09
+Non-Brand,Paid Search,Tablet,Indonesia,Bing,23,7.19
+Non-Brand,Paid Search,Tablet,Korea,Bing,0,0
+Non-Brand,Paid Search,Tablet,Singapore,Bing,64,41.44
+Non-Brand,Paid Search,Tablet,Spain,Google,13742,11060.71
+Non-Brand,Paid Search,Tablet,Thailand,Bing,19,3.44
+Brand,Paid Search,Desktop,Brazil,Bing,3803,1113.89
+Brand,Paid Search,Desktop,Indonesia,Bing,794,666.17
+Brand,Paid Search,Desktop,Malaysia,Bing,736,58.85
+Brand,Paid Search,Desktop,Philippines,Bing,1223,89.29
+Brand,Paid Search,Desktop,Rest of World,Bing,60056,46561.16
+Brand,Paid Search,Desktop,Singapore,Bing,1618,244.47
+Brand,Paid Search,Desktop,Thailand,Bing,233,18.12
+Brand,Paid Search,Mobile,Asia and Pacific,Bing,4,0.25
+Brand,Paid Search,Mobile,France,Bing,243,8.21
+Brand,Paid Search,Mobile,India,Google,13349,2235.76
+Brand,Paid Search,Mobile,Japan,Google,1854,1593.57
+Brand,Paid Search,Mobile,Malaysia,Bing,17,2.37
+Brand,Paid Search,Mobile,Netherlands,Bing,70,2.51
+Brand,Paid Search,Mobile,South Africa,Google,5039,1278.43
+Brand,Paid Search,Mobile,Sweden,Google,5714,599.43
+Brand,Paid Search,Tablet,Canada,Bing,364,47.47
+Brand,Paid Search,Tablet,France,Google,7001,3779.97
+Brand,Paid Search,Tablet,Germany,Google,2911,2179.65
+Brand,Paid Search,Tablet,Norway,Google,422,715.84
+Brand,Paid Search,Tablet,Rest of World,Bing,870,2227.38
+Brand,Paid Search,Tablet,Singapore,Bing,24,1.59
+Brand,Paid Search,Tablet,Sweden,Bing,4,0.2
+Brand,Paid Search,Tablet,Thailand,Bing,1,0.02
+Non-Brand,Paid Search,Desktop,Asia and Pacific,Google,2994,4756.14
+Non-Brand,Paid Search,Desktop,Canada,Bing,5365,13285.93
+Non-Brand,Paid Search,Desktop,Hindi,Google,36,17.64
+Non-Brand,Paid Search,Desktop,Italy,Bing,483,132.84
+Non-Brand,Paid Search,Desktop,Russia,Bing,953,169.25
+Non-Brand,Paid Search,Desktop,Spain,Google,317651,235470.99
+Non-Brand,Paid Search,Mobile,Asia and Pacific,Google,1287,1256.87
+Non-Brand,Paid Search,Mobile,Denmark,Bing,21,3.45
+Non-Brand,Paid Search,Mobile,Germany,Google,4585,7960.27
+Non-Brand,Paid Search,Mobile,Norway,Google,407,810.51
+Non-Brand,Paid Search,Mobile,Rest of World,Bing,10683,2993.85
+Non-Brand,Paid Search,Mobile,Singapore,Bing,551,209.23
+Non-Brand,Paid Search,Mobile,South Africa,Bing,89,19.42
+Non-Brand,Paid Search,Mobile,Sweden,Bing,13,6.19
+Non-Brand,Paid Search,Tablet,Asia and Pacific,Bing,94,23.28
+Non-Brand,Paid Search,Tablet,Australia,Bing,97,230.85
+Non-Brand,Paid Search,Tablet,China,Google,158,194.93
+Non-Brand,Paid Search,Tablet,Denmark,Google,918,1802.79
+Non-Brand,Paid Search,Tablet,Hindi,Google,5,0.78
+Non-Brand,Paid Search,Tablet,Malaysia,Google,1330,1543.89
+Non-Brand,Paid Search,Tablet,Portugal,Google,943,484.04
+Non-Brand,Paid Search,Tablet,South Africa,Google,1220,1819.69
+Brand,Paid Search,Desktop,Canada,Google,173725,72485.84
+Brand,Paid Search,Desktop,Denmark,Bing,1123,61.58
+Brand,Paid Search,Desktop,Germany,Bing,9699,1916.6
+Brand,Paid Search,Desktop,Greece,Google,2557,612.01
+Brand,Paid Search,Desktop,India,Bing,2804,175.89
+Brand,Paid Search,Desktop,Italy,Google,23833,6897.76
+Brand,Paid Search,Desktop,Japan,Google,4018,5434.88
+Brand,Paid Search,Desktop,Korea,Google,5176,724.02
+Brand,Paid Search,Desktop,Russia,Google,14705,4642.41
+Brand,Paid Search,Desktop,South Africa,Bing,6018,8089.18
+Brand,Paid Search,Desktop,Sweden,Bing,586,32.61
+Brand,Paid Search,Desktop,Vietnam,Bing,146,7.98
+Brand,Paid Search,Mobile,Brazil,Google,7155,546.59
+Brand,Paid Search,Mobile,China,Google,3644,735.16
+Brand,Paid Search,Mobile,Singapore,Google,7128,1663.9
+Brand,Paid Search,Mobile,United Kingdom,Google,66393,11539.49
+Brand,Paid Search,Mobile,United States,Bing,6011,2369.6
+Brand,Paid Search,Tablet,Brazil,Google,877,115.92
+Brand,Paid Search,Tablet,India,Bing,6,0.16
+Brand,Paid Search,Tablet,Indonesia,Google,642,226.39
+Brand,Paid Search,Tablet,Italy,Google,1202,314.23
+Brand,Paid Search,Tablet,Japan,Bing,516,1343.46
+Brand,Paid Search,Tablet,Korea,Bing,187,483.8
+Brand,Paid Search,Tablet,Philippines,Bing,2,0.05
+Brand,Paid Search,Tablet,Switzerland,Google,97,4.31
+Brand,Paid Search,Tablet,United Kingdom,Google,36237,16463.97
+Brand,Paid Search,Tablet,United States,Bing,3535,2448.63
+Brand,Paid Search,Unknown,United States,Bing,0,0
+Non-Brand,Paid Search,Desktop,Finland,Google,1968,3123.81
+Non-Brand,Paid Search,Desktop,Japan,Bing,45,5.04
+Non-Brand,Paid Search,Desktop,Korea,Bing,57,22.41
+Non-Brand,Paid Search,Desktop,Portugal,Google,49081,19769.83
+Non-Brand,Paid Search,Desktop,Switzerland,Google,150,363.17
+Non-Brand,Paid Search,Mobile,Australia,Google,7217,20990.23
+Non-Brand,Paid Search,Mobile,Brazil,Bing,13137,883.33
+Non-Brand,Paid Search,Mobile,Indonesia,Bing,1384,481.03
+Non-Brand,Paid Search,Mobile,Korea,Google,7718,4285.25
+Non-Brand,Paid Search,Mobile,Philippines,Google,18182,14286.75
+Non-Brand,Paid Search,Mobile,Turkey,Google,11782,5076.87
+Non-Brand,Paid Search,Mobile,United Kingdom,Bing,2282,2787.36
+Non-Brand,Paid Search,Mobile,Vietnam,Google,5372,2203.08
+Non-Brand,Paid Search,Tablet,Finland,Google,127,220.54
+Non-Brand,Paid Search,Tablet,Italy,Bing,15,2.47
+Non-Brand,Paid Search,Tablet,Russia,Bing,7,1.12
+Non-Brand,Paid Search,Tablet,Thailand,Google,408,509.92
+Non-Brand,Paid Search,Tablet,Turkey,Google,1356,991.12
+Non-Brand,Paid Search,Tablet,United States,Google,19890,72095.91
+Brand,Paid Search,Desktop,China,Google,22167,5070.16
+Brand,Paid Search,Desktop,Denmark,Google,38729,9131.39
+Brand,Paid Search,Desktop,Korea,Bing,6304,13683.02
+Brand,Paid Search,Desktop,Russia,Bing,10547,32962.47
+Brand,Paid Search,Desktop,Spain,Google,265784,43370.95
+Brand,Paid Search,Mobile,Denmark,Bing,34,1.75
+Brand,Paid Search,Mobile,Israel,Google,124,28.25
+Brand,Paid Search,Mobile,Korea,Google,2684,799.34
+Brand,Paid Search,Mobile,Rest of World,Google,56784,10400.55
+Brand,Paid Search,Mobile,Spain,Bing,379,6.63
+Brand,Paid Search,Mobile,Thailand,Google,2232,262.1
+Brand,Paid Search,Tablet,Australia,Google,20870,7802.98
+Brand,Paid Search,Tablet,Denmark,Bing,14,0.72
+Brand,Paid Search,Tablet,Indonesia,Bing,17,83.52
+Brand,Paid Search,Tablet,Netherlands,Google,3582,1755.19
+Brand,Paid Search,Tablet,Philippines,Google,681,252.4
+Brand,Paid Search,Tablet,Russia,Bing,288,1526.92
+Brand,Paid Search,Tablet,Turkey,Google,6576,731.75
+Brand,Paid Search,Tablet,Vietnam,Google,155,23.89
+Non-Brand,Paid Search,Desktop,Australia,Google,44495,164839.5
+Non-Brand,Paid Search,Desktop,Denmark,Bing,222,363.78
+Non-Brand,Paid Search,Desktop,France,Google,40782,69729.43
+Non-Brand,Paid Search,Desktop,Israel,Google,793,987.27
+Non-Brand,Paid Search,Desktop,Rest of World,Google,482593,463872.58
+Non-Brand,Paid Search,Desktop,Spain,Bing,22257,2222.59
+Non-Brand,Paid Search,Desktop,Thailand,Google,7373,9650.36
+Non-Brand,Paid Search,Desktop,Turkey,Google,20083,14822.57
+Non-Brand,Paid Search,Mobile,Denmark,Google,1084,969.03
+Non-Brand,Paid Search,Mobile,France,Bing,444,165.5
+Non-Brand,Paid Search,Mobile,India,Bing,2829,810.36
+Non-Brand,Paid Search,Mobile,Indonesia,Google,16301,14945.91
+Non-Brand,Paid Search,Mobile,Japan,Bing,14,0.64
+Non-Brand,Paid Search,Mobile,Korea,Bing,4,0.12
+Non-Brand,Paid Search,Mobile,Malaysia,Bing,242,98.89
+Non-Brand,Paid Search,Mobile,Russia,Google,2274,842.93
+Non-Brand,Paid Search,Mobile,Thailand,Bing,387,103.06
+Non-Brand,Paid Search,Tablet,France,Bing,194,90.09
+Non-Brand,Paid Search,Tablet,Israel,Google,70,107.73
+Non-Brand,Paid Search,Tablet,Rest of World,Google,20881,19123.08
+Non-Brand,Paid Search,Tablet,Russia,Google,1821,1377.09
+Non-Brand,Paid Search,Tablet,Spain,Bing,209,21.02
+Non-Brand,Paid Search,Tablet,Turkey,Bing,1,0.05
+Non-Brand,Paid Search,Tablet,Vietnam,Bing,3,2.01
+Brand,Paid Search,Desktop,Arabic,Google,13341,1739.8
+Brand,Paid Search,Desktop,Finland,Bing,252,15.17
+Brand,Paid Search,Desktop,France,Bing,14041,2099.82
+Brand,Paid Search,Desktop,India,Google,64131,11080.76
+Brand,Paid Search,Desktop,Israel,Google,745,156.61
+Brand,Paid Search,Desktop,Netherlands,Bing,4448,251.52
+Brand,Paid Search,Desktop,Portugal,Bing,0,0
+Brand,Paid Search,Desktop,Turkey,Google,45179,10374.99
+Brand,Paid Search,Desktop,United States,Google,1343631,756316.22
+Brand,Paid Search,Mobile,Australia,Google,28800,9241.26
+Brand,Paid Search,Mobile,Brazil,Bing,147,2.21
+Brand,Paid Search,Mobile,Indonesia,Bing,61,26.35
+Brand,Paid Search,Mobile,Italy,Google,5463,1080.5
+Brand,Paid Search,Mobile,Korea,Bing,311,815.48
+Brand,Paid Search,Mobile,Philippines,Bing,32,5.21
+Brand,Paid Search,Mobile,Russia,Google,4184,1343.91
+Brand,Paid Search,Mobile,Turkey,Google,20385,1686.62
+Brand,Paid Search,Mobile,United Kingdom,Bing,1161,354.89
+Brand,Paid Search,Mobile,Vietnam,Bing,25,1.96
+Brand,Paid Search,Tablet,Arabic,Google,569,148.83
+Brand,Paid Search,Tablet,Finland,Bing,3,0.23
+Brand,Paid Search,Tablet,Greece,Google,113,34.86
+Brand,Paid Search,Tablet,Israel,Google,5,0.32
+Brand,Paid Search,Tablet,Italy,Bing,16,0.91
+Brand,Paid Search,Tablet,Spain,Google,8137,2620.88
+Brand,Paid Search,Tablet,Turkey,Bing,296,111.14
+Non-Brand,Paid Search,Desktop,Greece,Google,1695,2607.77
+Non-Brand,Paid Search,Desktop,India,Bing,7338,2785.49
+Non-Brand,Paid Search,Desktop,Indonesia,Google,25816,38906.15
+Non-Brand,Paid Search,Desktop,Vietnam,Google,11105,8528.78
+Non-Brand,Paid Search,Mobile,Arabic,Google,6410,3300.79
+Non-Brand,Paid Search,Mobile,Finland,Bing,4,0.98
+Non-Brand,Paid Search,Mobile,Greece,Google,386,326.02
+Non-Brand,Paid Search,Mobile,Israel,Google,409,295.75
+Non-Brand,Paid Search,Mobile,Italy,Bing,93,11
+Non-Brand,Paid Search,Mobile,Spain,Google,103955,41937.85
+Non-Brand,Paid Search,Mobile,Turkey,Bing,30,7.68
+Non-Brand,Paid Search,Mobile,United States,Google,100160,243916.54
+Non-Brand,Paid Search,Tablet,Brazil,Google,2120,1615.35
+Non-Brand,Paid Search,Tablet,Indonesia,Google,1395,2547.14
+Non-Brand,Paid Search,Tablet,Italy,Google,450,687.66
+Non-Brand,Paid Search,Tablet,Korea,Google,317,283.71
+Non-Brand,Paid Search,Tablet,Philippines,Google,2377,2789.03
+Non-Brand,Paid Search,Tablet,Switzerland,Google,10,30.06
+Non-Brand,Paid Search,Tablet,United Kingdom,Google,14755,36085.3
+Non-Brand,Paid Search,Tablet,Vietnam,Google,741,529.42
+Brand,Paid Search,Desktop,Brazil,Google,51280,4875.94
+Brand,Paid Search,Desktop,Hindi,Google,0,0
+Brand,Paid Search,Desktop,Japan,Bing,28368,31409.27
+Brand,Paid Search,Desktop,Malaysia,Google,24602,3632.1
+Brand,Paid Search,Desktop,Netherlands,Google,77150,34345.16
+Brand,Paid Search,Desktop,Philippines,Google,18128,3478.57
+Brand,Paid Search,Desktop,Portugal,Google,37336,6978.94
+Brand,Paid Search,Desktop,United Kingdom,Google,652535,232678.95
+Brand,Paid Search,Desktop,United States,Bing,294302,144383.8
+Brand,Paid Search,Desktop,Vietnam,Google,5346,651.04
+Brand,Paid Search,Mobile,Australia,Bing,144,15.53
+Brand,Paid Search,Mobile,Canada,Bing,315,41.92
+Brand,Paid Search,Mobile,France,Google,16082,5176.27
+Brand,Paid Search,Mobile,Italy,Bing,137,7.99
+Brand,Paid Search,Mobile,Malaysia,Google,7123,1354.17
+Brand,Paid Search,Mobile,Switzerland,Google,1129,47.43
+Brand,Paid Search,Mobile,Turkey,Bing,213,71.25
+Brand,Paid Search,Tablet,Asia and Pacific,Bing,2,0.09
+Brand,Paid Search,Tablet,Canada,Google,9298,4403.06
+Brand,Paid Search,Tablet,Germany,Bing,54,14.49
+Brand,Paid Search,Tablet,Norway,Bing,10,0.62
+Non-Brand,Paid Search,Desktop,Asia and Pacific,Bing,3102,708.53
+Non-Brand,Paid Search,Desktop,Brazil,Bing,14873,1831.77
+Non-Brand,Paid Search,Desktop,Canada,Google,34343,134951.31
+Non-Brand,Paid Search,Desktop,India,Google,79338,99521.12
+Non-Brand,Paid Search,Desktop,Italy,Google,5406,9378.73
+Non-Brand,Paid Search,Desktop,Netherlands,Bing,1020,1114.38
+Non-Brand,Paid Search,Desktop,Philippines,Bing,2363,769.92
+Non-Brand,Paid Search,Desktop,Portugal,Bing,11,0.61
+Non-Brand,Paid Search,Desktop,South Africa,Google,14652,26192.31
+Non-Brand,Paid Search,Desktop,Sweden,Google,9771,26603.77
+Non-Brand,Paid Search,Desktop,Vietnam,Bing,397,194.25
+Non-Brand,Paid Search,Mobile,Canada,Google,9705,24171.85
+Non-Brand,Paid Search,Mobile,Finland,Google,277,244.51
+Non-Brand,Paid Search,Mobile,Germany,Bing,152,93.96
+Non-Brand,Paid Search,Mobile,Norway,Bing,0,0
+Non-Brand,Paid Search,Mobile,Singapore,Google,2766,4548.57
+Non-Brand,Paid Search,Mobile,South Africa,Google,8884,11351.72
+Non-Brand,Paid Search,Mobile,Sweden,Google,1618,2274.21
+Non-Brand,Paid Search,Tablet,Arabic,Google,441,462.73
+Non-Brand,Paid Search,Tablet,Brazil,Bing,181,20.64
+Non-Brand,Paid Search,Tablet,Canada,Bing,481,557.68
+Non-Brand,Paid Search,Tablet,India,Google,3999,3707.1
+Non-Brand,Paid Search,Tablet,Japan,Google,239,284.58
+Non-Brand,Paid Search,Tablet,Netherlands,Bing,12,8.44
+Non-Brand,Paid Search,Tablet,Philippines,Bing,78,29.36
+Non-Brand,Paid Search,Tablet,Portugal,Bing,0,0
+Non-Brand,Paid Search,Tablet,South Africa,Bing,8,2.95
+Non-Brand,Paid Search,Tablet,United Kingdom,Bing,1602,3246.58
+Brand,Paid Search,Desktop,Asia and Pacific,Bing,57,6.01
+Brand,Paid Search,Desktop,Australia,Google,273023,73712.28
+Brand,Paid Search,Desktop,Norway,Bing,712,65.09
+Brand,Paid Search,Desktop,Rest of World,Google,369007,73426.54
+Brand,Paid Search,Desktop,Spain,Bing,16558,501.45
+Brand,Paid Search,Desktop,United Kingdom,Bing,30728,12751.96
+Brand,Paid Search,Mobile,Finland,Google,1811,173.48
+Brand,Paid Search,Mobile,Germany,Google,10495,7076.69
+Brand,Paid Search,Mobile,Norway,Google,2141,2721.3
+Brand,Paid Search,Mobile,Portugal,Google,4562,893.31
+Brand,Paid Search,Mobile,Rest of World,Bing,2824,5270.05
+Brand,Paid Search,Mobile,Thailand,Bing,9,0.57
+Brand,Paid Search,Tablet,Australia,Bing,207,117.08
+Brand,Paid Search,Tablet,China,Google,460,122.21
+Brand,Paid Search,Tablet,Denmark,Google,2508,1376.61
+Brand,Paid Search,Tablet,France,Bing,124,29.07
+Brand,Paid Search,Tablet,Malaysia,Bing,7,0.37
+Brand,Paid Search,Tablet,Netherlands,Bing,30,1.66
+Brand,Paid Search,Tablet,Portugal,Google,1000,253.02
+Brand,Paid Search,Tablet,South Africa,Google,1707,500.59
+Non-Brand,Paid Search,Desktop,Australia,Bing,4183,12637.88
+Non-Brand,Paid Search,Desktop,Brazil,Google,66829,56762.42
+Non-Brand,Paid Search,Desktop,China,Google,5956,7398.99
+Non-Brand,Paid Search,Desktop,Denmark,Google,11837,24008.16
+Non-Brand,Paid Search,Desktop,Germany,Google,32387,98121
+Non-Brand,Paid Search,Desktop,Malaysia,Bing,1545,529.03
+Non-Brand,Paid Search,Desktop,Norway,Google,2580,8923.05
+Non-Brand,Paid Search,Desktop,Rest of World,Bing,35620,37770.01
+Non-Brand,Paid Search,Desktop,Singapore,Google,7287,18686.14
+Non-Brand,Paid Search,Desktop,Thailand,Bing,730,239.59
+Non-Brand,Paid Search,Desktop,Turkey,Bing,52,13.18
+Non-Brand,Paid Search,Desktop,United Kingdom,Google,106864,314025.89
+Non-Brand,Paid Search,Desktop,United States,Bing,41617,115789.31
+Non-Brand,Paid Search,Mobile,Canada,Bing,572,322.14
+Non-Brand,Paid Search,Mobile,France,Google,10422,6877.57
+Non-Brand,Paid Search,Mobile,Hindi,Google,976,249.04
+Non-Brand,Paid Search,Mobile,India,Google,58325,38324.54
+Non-Brand,Paid Search,Mobile,Japan,Google,1105,1467.83
+Non-Brand,Paid Search,Mobile,Malaysia,Google,13543,10930.63
+Non-Brand,Paid Search,Mobile,Netherlands,Google,3856,6604.44
+Non-Brand,Paid Search,Mobile,Portugal,Bing,28,1.38
+Non-Brand,Paid Search,Mobile,Russia,Bing,60,2.98
+Non-Brand,Paid Search,Tablet,Asia and Pacific,Google,205,389.06
+Non-Brand,Paid Search,Tablet,France,Google,2757,4068.62
+Non-Brand,Paid Search,Tablet,Germany,Google,2065,5123.3
+Non-Brand,Paid Search,Tablet,Netherlands,Google,1912,4554.73
+Non-Brand,Paid Search,Tablet,Norway,Google,147,349.43
+Non-Brand,Paid Search,Tablet,Rest of World,Bing,1439,1667.43
+Non-Brand,Paid Search,Tablet,Singapore,Google,357,684.18
+Non-Brand,Paid Search,Tablet,Sweden,Google,810,1634.16
+Brand,Paid Search,Desktop,Australia,Bing,37780,13936.81
+Brand,Paid Search,Desktop,Canada,Bing,39039,6055.12
+Brand,Paid Search,Desktop,Finland,Google,5385,902.49
+Brand,Paid Search,Desktop,Germany,Google,68266,53558.78
+Brand,Paid Search,Desktop,Italy,Bing,1910,109.2
+Brand,Paid Search,Desktop,Norway,Google,11674,13546.28
+Brand,Paid Search,Desktop,Singapore,Google,27702,4289.61
+Brand,Paid Search,Desktop,South Africa,Google,33092,5576.73
+Brand,Paid Search,Desktop,Sweden,Google,21785,3262.43
+Brand,Paid Search,Mobile,Arabic,Google,3869,508.38
+Brand,Paid Search,Mobile,Canada,Google,21361,5192.2
+Brand,Paid Search,Mobile,Finland,Bing,13,0.77
+Brand,Paid Search,Mobile,Germany,Bing,154,12.94
+Brand,Paid Search,Mobile,Greece,Google,378,82.83
+Brand,Paid Search,Mobile,Netherlands,Google,7869,2086.41
+Brand,Paid Search,Mobile,Norway,Bing,17,1.1
+Brand,Paid Search,Mobile,Philippines,Google,3355,755.71
+Brand,Paid Search,Mobile,Singapore,Bing,66,19.78
+Brand,Paid Search,Mobile,South Africa,Bing,96,29.66
+Brand,Paid Search,Mobile,Sweden,Bing,36,2.9
+Brand,Paid Search,Mobile,United States,Google,252029,109908.23
+Brand,Paid Search,Tablet,Brazil,Bing,9,0.55
+Brand,Paid Search,Tablet,India,Google,965,225.07
+Brand,Paid Search,Tablet,Japan,Google,236,307.03
+Brand,Paid Search,Tablet,Korea,Google,243,39.58
+Brand,Paid Search,Tablet,Malaysia,Google,786,156.99
+Brand,Paid Search,Tablet,South Africa,Bing,168,244.99
+Brand,Paid Search,Tablet,United Kingdom,Bing,413,138.33
+Brand,Paid Search,Tablet,United States,Google,73947,51033.64
+Non-Brand,Paid Search,Desktop,Arabic,Google,5334,4391.91
+Non-Brand,Paid Search,Desktop,Finland,Bing,68,14.45
+Non-Brand,Paid Search,Desktop,Germany,Bing,2419,3344.37
+Non-Brand,Paid Search,Desktop,Japan,Google,2140,3964.79
+Non-Brand,Paid Search,Desktop,Malaysia,Google,26749,37025
+Non-Brand,Paid Search,Desktop,Netherlands,Google,34189,109957.28
+Non-Brand,Paid Search,Desktop,Norway,Bing,69,145.68
+Non-Brand,Paid Search,Desktop,Philippines,Google,40758,51140.32
+Non-Brand,Paid Search,Desktop,Singapore,Bing,1908,1056.6
+Non-Brand,Paid Search,Desktop,South Africa,Bing,116,59.14
+Non-Brand,Paid Search,Desktop,Sweden,Bing,237,233.96
+Non-Brand,Paid Search,Desktop,United Kingdom,Bing,21540,62356
+Non-Brand,Paid Search,Desktop,United States,Google,223694,864351.01
+Non-Brand,Paid Search,Mobile,Asia and Pacific,Bing,357,75.11
+Non-Brand,Paid Search,Mobile,Australia,Bing,325,259.66
+Non-Brand,Paid Search,Mobile,Brazil,Google,26961,11596.3
+Non-Brand,Paid Search,Mobile,Italy,Google,1104,992.73
+Non-Brand,Paid Search,Mobile,Netherlands,Bing,17,7.87
+Non-Brand,Paid Search,Mobile,Philippines,Bing,452,115.16
+Non-Brand,Paid Search,Mobile,Portugal,Google,16798,3315.04
+Non-Brand,Paid Search,Mobile,Switzerland,Google,15,29.22
+Non-Brand,Paid Search,Mobile,United Kingdom,Google,23777,47494.42
+Non-Brand,Paid Search,Mobile,United States,Bing,14296,10163.6
+Non-Brand,Paid Search,Mobile,Vietnam,Bing,435,139.5
+Non-Brand,Paid Search,Tablet,Canada,Google,3320,12336.64
+Non-Brand,Paid Search,Tablet,Germany,Bing,47,51.45
+Non-Brand,Paid Search,Tablet,India,Bing,89,31.3
+Non-Brand,Paid Search,Tablet,Japan,Bing,2,0.33
+Non-Brand,Paid Search,Tablet,Malaysia,Bing,23,6.78
+Non-Brand,Paid Search,Tablet,Norway,Bing,0,0
+Non-Brand,Paid Search,Tablet,Sweden,Bing,0,0
+Non-Brand,Paid Search,Tablet,United States,Bing,3220,5017.74
